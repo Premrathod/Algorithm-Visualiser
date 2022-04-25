@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kairaedsch.github.io/GridSearchVisualiser/">
-    <img width="80%" src="images/logo.gif"/>
+    <img width="80%" src="logo.gif"/>
   </a>
 </p>
 <p align="center">
@@ -22,14 +22,14 @@
 
 A online algorithm visualiser for pathfinding algorithms.
 
-The tool was created for my bachelor thesis "Jump Point Search on Directed Grids" at the University of Passau.
+
 
 <!-- ## How to use
 The tool can be used at [kairaedsch.github.io/GridSearchVisualiser](https://kairaedsch.github.io/GridSearchVisualiser/). -->
 
 <p align="center">
   <a href="https://kairaedsch.github.io/GridSearchVisualiser/">
-    <img width="100%" src="images/intro.gif"/>
+    <img width="100%" src="intro.gif"/>
   </a>
 </p>
 
@@ -69,8 +69,11 @@ Two grid modes are supported with additional options:
 * [Dart pub](https://pub.dev/) - Dependency Management
 * [OverReact](https://github.com/Workiva/over_react) - React JS for Dart
 
-<!-- ## Authors
-* **Kai Rädsch** - *Initial work* - [kairaedsch](https://github.com/kairaedsch)
- -->
+## Authors
+* **Premsing Rathod**
+* **Pratik Barai**
+* **Ajinkya Hazare**
+* **Piyush Itankar**
+
 <!-- ## License
 This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details -->
